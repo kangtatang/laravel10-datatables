@@ -1,6 +1,6 @@
 # DESCRIPTION (DESKRIPSI)
 
-A sample app usingYajra datatables with Laravel 10.x
+A sample app using Yajra datatables with Laravel 10.x
 
 (Contoh aplikasi untuk menggunakan yajra datatables pada Laravel versi 10.x 
 Belum menggunakan otentifikasi)
@@ -146,4 +146,6 @@ DB_CONNECTION=sqlite
 ...
 ```
 
-## Run migration
+[Don't forget to Run migration]
+
+*Notes: no seeder available
