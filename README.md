@@ -2,6 +2,8 @@
 
 A sample app using Yajra datatables with Laravel 10.x
 
+feature: Add, view and edit using modal and jquery ajax.
+
 (Contoh aplikasi untuk menggunakan yajra datatables pada Laravel versi 10.x 
 Belum menggunakan otentifikasi)
 
